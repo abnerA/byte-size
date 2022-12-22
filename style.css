@@ -7,6 +7,7 @@ header {
     background-color: #0087de;
     width: 100%;
     height: 100vh;
+    min-height: 400px;
     text-align: center;
   }
   
